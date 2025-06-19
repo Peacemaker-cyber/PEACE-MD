@@ -1,7 +1,7 @@
 
 
 
-import config from '../../config.cjs';
+import config from '../..framework/zokou';
 
 const autotypingCommand = async (m, Matrix) => {
   const botNumber = await Matrix.decodeJid(Matrix.user.id);
@@ -15,7 +15,7 @@ const autotypingCommand = async (m, Matrix) => {
 
   // Check if the command is in the list of valid commands
   if (validCommands.includes(cmd)) {
-    if (!isCreator) return m.reply("*ᴏᴡɴᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴍᴀᴅᴀғᴀᴋᴇʀ*");
+    if (!isCreator) return m.reply("*Charleske xmd*");
 
     let responseMessage;
 
