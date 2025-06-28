@@ -1,4 +1,3 @@
-# PEACE MD
 <!-- Glowing Header -->
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
@@ -19,40 +18,18 @@
   </a>
 </p>
 
-<!-- Action Buttons -->
+<!-- Deploy Button Only -->
 <p align="center">
-  <a href="https://peace-md-5egf.onrender.com/">
-    <img title="GET SESSION OPT 1" src="https://img.shields.io/badge/🔑_GET_PEACE MD_SESSION-000000?style=for-the-badge&logo=quantum&logoColor=white&color=skyblue" width="260" height="50"/>
-  </a>
-
-
-
-<a href="https://dashboard.heroku.com/new?template=https://github.com/Peacemaker-cyber/unknown-spy-/tree/main">
-    <img title="DEPLOY PEACE MD BOT" src="https://img.shields.io/badge/🚀_DEPLOY_ON_HEROKU-000000?style=for-the-badge&logo=heroku&logoColor=white&color=FF00FF" width="260" height="50"/>
+  <a href="https://vercel-indol-gamma.vercel.app">
+    <img title="DEPLOY PEACE MD BOT" src="https://img.shields.io/badge/🚀_DEPLOY_PEACE_MD-000000?style=for-the-badge&logo=vercel&logoColor=white&color=00CED1" width="280" height="50"/>
   </a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace-ExtraBold&color=blue&lines=𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+⭐+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
- <p align="center">
- <a href="https://github.com/Peacemaker-cyber/PEACE-MD/fork"><img title="PEACE-MD" src="https://img.shields.io/badge/FORK-PEACE MD-h?color=008000&style=for-the-badge&logo=github"></a>
-
-
-
+<!-- Fork Section -->
 <p align="center">
-  <a href="https://render.com">
-    <img title="DEPLOY ON RENDER" src="https://img.shields.io/badge/🚀_DEPLOY_ON_RENDER-000000?style=for-the-badge&logo=render&logoColor=white&color=61DAFB" width="260" height="50"/>
+  <a href="https://github.com/Peacemaker-cyber/PEACE-MD/fork">
+    <img title="FORK PEACE-MD" src="https://img.shields.io/badge/FORK-PEACE_MD-h?color=008000&style=for-the-badge&logo=github">
   </a>
-  
-
-<p align="center">
-  <a href="https://railway.app?referralCode=AqkNn4">
-    <img title="DEPLOY ON RAILWAY" src="https://img.shields.io/badge/🚀_DEPLOY_ON_RAILWAY-000000?style=for-the-badge&logo=railway&logoColor=white&color=purple" width="260" height="50"/>
-  </a>
-</p>
-
-<!-- Referral Code -->
-<p align="center">
-  <b>Referral Code for Railway:</b> <code>AqkNn4</code>
 </p>
 
 <!-- Glowing Footer -->
